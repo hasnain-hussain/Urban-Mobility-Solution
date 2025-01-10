@@ -79,7 +79,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Check if all libraries are installed properly if not run `pip install -r requirements.txt` again.
 
 
-## Authors
+## Creator
 
-- [@Kunal Chaudhari](https://github.com/kc-codes)
-- [@Karan Sankhe](https://github.com/Karansankhe)
+[Hasnain Hussain](https://github.com/hasnain-hussain)
