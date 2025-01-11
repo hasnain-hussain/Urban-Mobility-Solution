@@ -12,7 +12,7 @@ efficiency using AI/ML.
 ## Features
 
 - Demand prediction
-- Pothole Detetection 
+- Pothole Detection 
 - Real time road damage detection
 - Live previews
 - Cross platform
